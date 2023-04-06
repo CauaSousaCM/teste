@@ -1,3 +1,6 @@
 testando push do git
 reinviando arquivo .txt
 novamente para o github
+
+tentando pull do git para 
+receber alterações no workspace
