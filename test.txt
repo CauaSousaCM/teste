@@ -8,3 +8,8 @@ receber alterações no workspace
 enviando de volta para o github
 com git add .
 e git commit -m "commit"
+
+novamente...
+
+aaaaaaaaaaaaaaaaaa
+
